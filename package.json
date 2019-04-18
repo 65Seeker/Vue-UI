@@ -1,0 +1,23 @@
+{
+  "name": "vue-ui",
+  "version": "1.0.0",
+  "description": "UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/65Seeker/Vue-UI.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "Shaw.v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/65Seeker/Vue-UI/issues"
+  },
+  "homepage": "https://github.com/65Seeker/Vue-UI#readme"
+}
